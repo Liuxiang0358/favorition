@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>ch01_00000000008000000_02866.jpg</filename>
+	<path>C:\Users\user\Desktop\gas\jpg\ch01_00000000008000000_02866.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>704</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gas_tank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>364</xmin>
+			<ymin>114</ymin>
+			<xmax>406</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
